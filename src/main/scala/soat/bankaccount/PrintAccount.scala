@@ -3,6 +3,7 @@ package soat.bankaccount
 import com.google.common.util.concurrent.AtomicDouble
 import soat.bankaccount.model.Transaction
 
+
 class PrintAccount {
 
   //header for printing statement

@@ -1,6 +1,5 @@
 [0m[[0minfo[0m] [0m[32mAccountTest:[0m[0m
 [0m[[0minfo[0m] [0m[32m- no transaction yet[0m[0m
-[0m[[0minfo[0m] [0m[31m- new deposit on account *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  1000.0 did not equal 2000 (AccountTest.scala:24)[0m[0m
+[0m[[0minfo[0m] [0m[32m- new deposit on account[0m[0m
 [0m[[0minfo[0m] [0m[32m- new withdraw from account[0m[0m
 [0m[[0minfo[0m] [0m[32m- account is a list of transactions[0m[0m

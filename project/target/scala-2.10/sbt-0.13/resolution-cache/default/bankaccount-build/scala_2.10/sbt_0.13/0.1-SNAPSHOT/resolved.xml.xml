@@ -4,7 +4,7 @@
 		module="bankaccount-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190206151021"
+		publication="20190206223014"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

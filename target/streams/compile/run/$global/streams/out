@@ -1,6 +1,6 @@
-[0m[[0minfo[0m] [0mRunning soat.bankaccount.App.BankAccount [0m
+[0m[[0minfo[0m] [0mRunning soat.bankaccount.App.BankAccountApp [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-3 to terminate.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/home/soat/Bureau/bankaccount/target/scala-2.11/classes[0m
 [0m[[0mdebug[0m] [0m	/home/soat/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
@@ -186,7 +186,7 @@
 [0m[[0mdebug[0m] [0m	/home/soat/.ivy2/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.7.21.jar[0m
 [0m[[0mdebug[0m] [0m	/home/soat/.ivy2/cache/com.yammer.metrics/metrics-core/jars/metrics-core-2.2.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/soat/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.5.jar[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-3 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
 [0m[[0mdebug[0m] [0mExited with code 0[0m
