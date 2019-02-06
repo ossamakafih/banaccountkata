@@ -21,15 +21,15 @@ class AccountTest extends FunSuite with BeforeAndAfter with MockFactory {
   test("new deposit on account") {
     account.deposit(1000)
     val transactions = account.history()
-    assert(transactions.head.amount == 1000)
-    assert(transactions.size == 1)
+    assert(transactions.head.amount === 1000)
+    assert(transactions.size === 1)
   }
 
   test("new withdraw from account") {
     account.withdraw(500)
     val transactions = account.history()
-    assert(transactions.head.amount == -500)
-    assert(transactions.size == 1)
+    assert(transactions.head.amount === -500)
+    assert(transactions.size === 1)
   }
 
   test("account is a list of transactions") {

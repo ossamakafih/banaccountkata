@@ -2,7 +2,7 @@ package soat.bankaccount.App
 
 import soat.bankaccount.{Account, DateTransaction, PrintAccount}
 
-object BankAccount {
+object BankAccountApp {
   def main(args: Array[String]): Unit = {
 
     val transactionDate = new DateTransaction

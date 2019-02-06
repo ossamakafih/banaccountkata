@@ -3,65 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="f593c35d-70fe-45b9-9176-5215aa1cd808" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$15.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$16.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$17.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$18.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$19.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$20.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$21.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$22.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$23.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$24.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$$anonfun$root$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8a6e365ab6266ac248ce.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/bankaccount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/bankaccount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/bankaccount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/bankaccount-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-sources.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-bankaccount-build-test.xml" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/Account.scala" afterPath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/Account.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/DateTransaction.scala" afterPath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/DateTransaction.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/PrintAccount.scala" afterPath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/PrintAccount.scala" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/model/Transaction.scala" afterPath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/model/Transaction.scala" />
-      <change beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/soat/bankaccount/AccountTest$$anon$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/soat/bankaccount/AccountTest$$anon$1.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccount.scala" afterPath="$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccountApp.scala" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala" afterPath="$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/Account.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/Account.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/App/BankAccount$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/App/BankAccount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/DateTransaction.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/DateTransaction.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/PrintAccount$$anonfun$showTransaction$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/PrintAccount$$anonfun$showTransaction$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/PrintAccount$$anonfun$showTransaction$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/PrintAccount$$anonfun$showTransaction$2.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/PrintAccount.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/PrintAccount.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/model/Transaction$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/model/Transaction$.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/model/Transaction.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/soat/bankaccount/model/Transaction.class" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
@@ -89,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BankAccount.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccount.scala">
+      <file leaf-file-name="BankAccountApp.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccountApp.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="414">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,13 +87,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/Account.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintAccount.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintAccount.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/PrintAccount.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -149,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AccountTest.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AccountTest.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="277">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -172,11 +126,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/soat/bankaccount/Account.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/soat/bankaccount/DateTransaction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/soat/bankaccount/model/Transaction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/soat/bankaccount/PrintAccount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala" />
       </list>
     </option>
   </component>
@@ -299,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BankAccountApp">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -315,6 +270,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="soat.bankaccount.App.BankAccount" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="root" />
+      <envs />
+    </configuration>
+    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="soat.bankaccount.App.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="soat.bankaccount.App.BankAccountApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -400,9 +374,14 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.BankAccount" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BankAccountApp" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.BankAccount" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.BankAccountApp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BankAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -518,10 +497,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/PrintAccount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        <state relative-caret-position="252">
+          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -537,15 +516,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/Account.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -558,10 +529,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/PrintAccount.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/soat/bankaccount/App/BankAccountApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/soat/bankaccount/AccountTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding />
         </state>
       </provider>
