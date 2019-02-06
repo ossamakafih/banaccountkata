@@ -6,7 +6,7 @@ import java.time.format.DateTimeFormatter
 
 class DateTransaction {
 
-  val dd_MM_yyyy = DateTimeFormatter.ofPattern("dd/MM/yyyy")
+  private val dd_MM_yyyy = DateTimeFormatter.ofPattern("dd/MM/yyyy")
 
   //get today date (transation date)
   def today(): LocalDate = LocalDate.now()

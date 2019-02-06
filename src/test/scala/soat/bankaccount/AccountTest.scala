@@ -15,7 +15,7 @@ class AccountTest extends FunSuite with BeforeAndAfter with MockFactory {
   }
 
   test("no transaction yet") {
-    assert(account.history().size == 0)
+    assert(account.history().isEmpty)
   }
 
   test("new deposit on account") {

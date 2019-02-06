@@ -7,7 +7,7 @@ class Account(date: DateTransaction, printStatement: PrintAccount) {
   //incremental operation id
   var id = 1
   //initialise list of transactions
-  var transactions = List[Transaction]()
+  private var transactions = List[Transaction]()
 
   //depose an amount on account
   def deposit(amount: Double): Unit = {

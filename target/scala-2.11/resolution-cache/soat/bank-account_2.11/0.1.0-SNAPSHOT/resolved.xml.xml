@@ -4,7 +4,7 @@
 		module="bank-account_2.11"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190206224730"
+		publication="20190206225039"
 	>
 		<description>
 		Bank Account
@@ -34,23 +34,8 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.8" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="org.scalafx" name="scalafx_2.11" rev="8.0.102-R11" conf="compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.2.0" conf="compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.2.0" conf="compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.2.0" conf="compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-graphx_2.11" rev="2.2.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-json_2.11" rev="2.6.6" conf="compile->default(compile)"/>
-		<dependency org="com.fasterxml.jackson.module" name="jackson-module-scala_2.11" rev="2.8.8" conf="compile->default(compile)"/>
-		<dependency org="org.elasticsearch" name="elasticsearch-spark-20_2.11" rev="6.4.0" conf="compile->default(compile)"/>
-		<dependency org="org.apache.kafka" name="kafka-clients" rev="1.0.0" conf="compile->default(compile)">
-			<exclude org="org.lz4" module="lz4-java" name="*" type="*" ext="*" conf="" matcher="exact"/>
-		</dependency>
-		<dependency org="com.typesafe.scala-logging" name="scala-logging_2.11" rev="3.5.0" conf="compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-streaming_2.11" rev="2.2.0" conf="compile->default(compile)"/>
-		<dependency org="org.apache.spark" name="spark-streaming-kafka-0-10_2.11" rev="2.2.0" conf="compile->default(compile)"/>
-		<dependency org="org.json4s" name="json4s-jackson_2.11" rev="3.2.9" conf="compile->default(compile)"/>
-		<dependency org="org.scalactic" name="scalactic_2.11" rev="3.0.5" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.5" conf="test->default(compile)"/>
 		<dependency org="org.scalamock" name="scalamock_2.11" rev="4.1.0" conf="test->default(compile)"/>
+		<dependency org="com.google.guava" name="guava" rev="12.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
