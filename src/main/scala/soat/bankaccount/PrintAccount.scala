@@ -5,9 +5,10 @@ import soat.bankaccount.model.Transaction
 
 class PrintAccount {
 
+  //header for printing statement
   val header = "operation || date || transaction_amount || type || balance"
 
-
+  //format and print statement with account balance
   def showTransaction(transactions: List[Transaction]) = {
     val balance = new AtomicDouble(0)
 
