@@ -1,0 +1,7 @@
+compile
+runMain SimpleMain
+sbt test
+test
+ext
+exit
+test
