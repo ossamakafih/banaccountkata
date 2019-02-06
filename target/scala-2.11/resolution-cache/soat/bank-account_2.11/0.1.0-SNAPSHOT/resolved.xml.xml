@@ -4,7 +4,7 @@
 		module="bank-account_2.11"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190206141750"
+		publication="20190206144410"
 	>
 		<description>
 		Bank Account

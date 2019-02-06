@@ -8,16 +8,16 @@ class PrintAccount {
   val header = "operation || date || transaction_amount || type || balance"
 
 
-  def showTransaction(transaction: List[Transaction]) = {
+  def showTransaction(transactions: List[Transaction]) = {
     val balance = new AtomicDouble(0)
 
-    transaction.map { t =>
-      var newBalnce = balance.addAndGet(t.amount)
-      if (t.amount < 0){
-        s"${t.operation} || ${t.Date} ||  ${t.amount} || withdraw || ${newBalnce}"
+    transactions.map { transaction =>
+      val newBalnce = balance.addAndGet(transaction.amount)
+      if (transaction.amount < 0){
+        s"${transaction.operation} || ${transaction.Date} ||  ${transaction.amount} || withdraw || ${newBalnce}"
       }
       else{
-        s"${t.operation} || ${t.Date} ||  ${t.amount} || deposit || ${newBalnce}"
+        s"${transaction.operation} || ${transaction.Date} ||  ${transaction.amount} || deposit || ${newBalnce}"
       }
     }.foreach(println)
   }
