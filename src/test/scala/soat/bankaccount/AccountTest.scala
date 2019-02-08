@@ -1,4 +1,6 @@
 package soat.bankaccount
+import java.time.LocalDate
+
 import org.scalamock.scalatest.MockFactory
 import org.scalatest.{BeforeAndAfter, FunSuite}
 import soat.bankaccount.model.Transaction
@@ -8,7 +10,7 @@ class AccountTest extends FunSuite with BeforeAndAfter with MockFactory {
 
   var account: Account = _
   val statementPrinter = stub[MockablePrintAccount]
-  val date = stub[MockableDateTransaction]
+  val date = new DateTransaction
 
   before{
     account = new Account(date, statementPrinter)
@@ -34,6 +36,10 @@ class AccountTest extends FunSuite with BeforeAndAfter with MockFactory {
 
   test("account is a list of transactions") {
     assert(account.history().isInstanceOf[List[Transaction]])
+  }
+
+  test("date is a LocalDate format") {
+    assert(date.today().isInstanceOf[LocalDate])
   }
 
   class MockablePrintAccount extends PrintAccount()

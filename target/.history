@@ -27,3 +27,13 @@ test
 compile
 test
 run
+test
+compile
+testOnly
+runMain
+runMain BankAccountApp
+test
+run
+test
+compile
+test
